@@ -1,5 +1,5 @@
 The main idea of this project was to create a Web App to Vanhack.
-Whit this app the users would be able to apply for jobs listed on the platform.
+With this app the users would be able to apply for jobs listed on the platform.
 
 The backend side of this project was done by Jonatha Moreno Schmitz.
 
